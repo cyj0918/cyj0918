@@ -1,11 +1,11 @@
 ## Hi, I'm Yu-Jhen CHEN.
 
-Biomedical Engineering undergraduate at Chang Gung University
-New Taipei City, Taiwan
-Email: joonie.jhen@gmail.com | B1126005@cgu.edu.tw
+- Biomedical Engineering undergraduate at Chang Gung University
+- New Taipei City, Taiwan
+- Email: joonie.jhen@gmail.com | B1126005@cgu.edu.tw
 ---
 ## About Me
-I am currently pursuing a **B.Sc. in Biomedical Engineering** at Chang Gung University, with a strong interest in **artificial intelligence, medical image analysis, and signal processing**. I am passionate about leveraging technology to advance healthcare solutions and have hands-on experience in both academic research and practical innovation.
+- I am currently pursuing a **B.Sc. in Biomedical Engineering** at Chang Gung University, with a strong interest in **artificial intelligence, medical image analysis, and signal processing**. I am passionate about leveraging technology to advance healthcare solutions and have hands-on experience in both academic research and practical innovation.
 ---
 ## Technical Skills
 - **Programming Languages:** Python, C++, MATLAB
@@ -24,7 +24,6 @@ _B.Sc., Department of Biomedical Engineering (Sep. 2022 – Present)_
   - Leading Innovation and Entrepreneurship Development Program  
   - Medical Images Analysis Using AI Techniques  
   - Biomedical Signal Processing
-
 - **Honorary (Junior) Research Assistant**, Microfluidics Innovated Bio-Applications Lab, The Chinese University of Hong Kong (Jun. 2025 – Aug. 2025)  
   - Optimizing YOLO for Real-Time Microfluidics Image Analysis
 ---
@@ -43,7 +42,7 @@ Conferences - Paper Session
 - Chen, H. H., Wu, C. W., Cheng, Y., Su, M. C., **Chen, Y. J.**, & Lai, P. L. (2024, June). Vertebral Strength Prediction Using Automatic CT-Based L1 Models with Bone Heterogeneity. Paper session presented at the 19th Formosa Plastics Corporation Enterprise Applied Technology Conference, Taoyuan, Taiwan.
 - Hung, C. C., Lin, S. R., **Chen, Y. J.**, Chen, H. H., Hsu, J. F., & Chou, C. C. (2024, November). A Deep Learning-Based Model for Identifying Adult and Infant Bowel Sounds. Paper session presented at the 6th Global Conference on Biomedical Engineering (GCBME), Tainan, Taiwan.
 
-Conferences - Poster / Oral Session
+**Conferences - Poster / Oral Session**
 - **Chen, Y. J.**, Su, M. C., Wu, C. W., & Chen, H. H. (2024, June). “MilliCare" Comprehensive Home Care System for the Elderly. Poster session presented at the 19th Formosa Plastics Corporation Enterprise Applied Technology Conference,Taoyuan, Taiwan.
 - Chen, H. H., Wu, C. W., Su, M. C., **Chen, Y. J.**, & Lai, P. L. (2024, July). Mechanical Characteristics of Lumbar 1 Vertebrae in Individuals Aged 50 and Above: Insights From Automated CT-Based Models with Bone Inhomogeneity. Poster session presented at the Polymer Engineering & Science International (PESI) Conference 2024, Tokyo, Japan.
 - **Chen, Y. J.**, Wu, C. W., Su, M. C., & Chen, H. H. (2024, September). Using Milliwave Sensors on Comprehensive Home Care System for the Elderly. Oral session presented at the 23rd International Conference on Mechanics in Medicine and Biology (ICMMB), Bruxelles, Belgium.
